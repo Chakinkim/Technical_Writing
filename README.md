@@ -127,12 +127,3 @@ add(2, 3)  # Returns 5
 ## License  
 MIT. See `LICENSE` for details.  
 ```
-
----
-
-#### **Tools to Enhance Your README**  
-- **Badges**: [Shields.io](https://shields.io)  
-- **Markdown editors**: [Typora](https://typora.io), [VS Code](https://code.visualstudio.com) + Markdown extensions  
-- **TOC generators**: [doctoc](https://github.com/thlorenz/doctoc)  
-
-A great README balances clarity, visuals, and structure. Start simple, iterate, and keep your users in mind! 🚀
